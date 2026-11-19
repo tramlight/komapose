@@ -3,7 +3,7 @@
 
 A lightweight, single-file 2.5D anime drawing reference doll built for everyday slice-of-life poses.
 
-[**▶ Open KomaPose in your browser**](https://YOUR-USERNAME.github.io/YOUR-REPO/)  
+[**▶ Open KomaPose in your browser**](https://tramlight.github.io/komapose/)
 *(Or download `index.html` and open it locally — runs 100% offline with zero dependencies.)*
 
 ## Why?
