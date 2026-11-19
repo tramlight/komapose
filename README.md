@@ -1,3 +1,4 @@
+<img width="951" height="909" alt="preview" src="https://github.com/user-attachments/assets/08236751-9228-47ce-b8b4-91aad2a6efbe" />
 # KomaPose
 
 A lightweight, single-file 2.5D anime drawing reference doll built for everyday slice-of-life poses.
